@@ -1,6 +1,6 @@
 # ETH-PROOF
 
-This project aims to develop a simple token contract. It provides minting and burning features and also these features are only accessible by the owner(Here owner is the address of the person who deploys the contract and it cannot be changed) of the contract.
+This project aims to explian our new assigment which is based on eth proof.In this project I have demonstrated how to mint new tokens and also burn existing tokens.
 
 ## Getting started
 
@@ -8,7 +8,7 @@ To test this contract you can either just copy and paste it in remix ide or test
 
 ### Set-Up Locally
 
-To set it up locally start by clonning the repo
+To set it up locally start by clonning the repository
 
 sh
 git clone https://github.com/22BCS13462/eth-proof-code-for-metacraft.git
