@@ -10,25 +10,26 @@ To test this contract you can either just copy and paste it in remix ide or test
 
 To set it up locally start by clonning the repository
 
-sh
+'''sh
 git clone https://github.com/22BCS13462/eth-proof-code-for-metacraft.git
-
+'''
 
 now for compilling the contract use solc.js and to install solc use
 
-sh
+'''sh
 npm install solc
-
+'''
 or 
-sh
+'''sh
 yarn add solc
-
+'''
 
 once compiled use ethers.js to deploy the contract and for installing ethers.js use
 
-sh
+'''sh
 npm install ethers
-
+'''
 or 
-sh
+'''sh
 yarn add ethers
+'''
